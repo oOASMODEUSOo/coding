@@ -1,5 +1,5 @@
 //write a simple for loop
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -19,7 +19,7 @@ int main()
     }
     return 0;
 }
-*/
+
 
 
 //write a simple while loop
